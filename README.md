@@ -1,4 +1,4 @@
-# Welcome to the Official GitHub of [Murtaza Qazi] 
+# Welcome to the Official GitHub of Murtaza Qazi
 
 ## About Me 🧑‍💻
 
@@ -8,41 +8,31 @@ Founder and CEO of **Racemfd**, a company that... well, let's just say it's as a
 
 ## Skills ⚡
 
-- **Programming Languages:** Python, JavaScript, C++, and more. If you name it, I've probably tried it... and probably broke something in the process. 😅
+- **Programming Languages:** LuaU, JavaScript, C++, and more. If you name it, I've probably tried it... and probably broke something in the process. 😅
 - **3D Modeling:** Blender wizardry. I can turn a cube into a dragon faster than you can say "rendering time."
-- **Game Development:** Unity and Unreal Engine—because why just code when you can create entire worlds?
-- **Web Development:** HTML, CSS, JavaScript... basically, I make the internet look less like a mess.
+- **Web Development:**JavaScript, Node.JS, express ... basically, I make the internet look less like a mess.
 
 ## Tech Stack 🛠️
 
 - **Languages:**  
-  - JavaScript (obviously), Python, C++, TypeScript, HTML/CSS, SQL
+  - JavaScript (obviously), LuaU, HTML/CSS, SQL
 - **Back-End:**  
-  - Node.js, Express.js, NestJS (you name it, I build it!)
-- **Front-End:**  
-  - React, Vue.js, Svelte (yeah, I'm a front-end wizard too)
+  - Node.js, Express.js,  (you name it, I build it!)
 - **Databases:**  
-  - MongoDB, PostgreSQL, MySQL, Firebase (sometimes I feel like a database whisperer)
+  - MongoDB, FireStore, Firebase (sometimes I feel like a database whisperer)
 - **3D Modeling:**  
-  - Blender, Autodesk Maya, ZBrush
+  - Blender, Substance Painter
 - **Game Development:**  
-  - Unity, Unreal Engine, Godot (basically all the game engines that sound cool)
+  - Roblox
 - **DevOps/Tools:**  
   - Docker, Git, GitHub Actions, AWS, Firebase Hosting, Netlify, Vercel
-- **Testing & Automation:**  
-  - Jest, Mocha, Cypress, Selenium (because who has time for manual testing?)
 - **Others:**  
   - GraphQL, REST APIs, WebSockets (I can talk to your app in real-time)
 
 ## My Company: Racemfd 💼
 
-You might be wondering, "What is Racemfd?" Well, it's my company, and it's a bit of everything: coding, 3D modeling, game dev, and possibly an entire future empire. But for now, it’s just me, a laptop, and a couple of questionable late-night decisions.
+You might be wondering, "What is Racemfd?" Well, it's my company, and i fucking love it
 
-### What Do We Do? 🤔
-
-- **Tech Solutions:** If it involves code, we probably do it. Need an app? I can help with that.
-- **3D Models:** From characters to environments, I can make your 3D dreams come true (or nightmares if you're into that). 
-- **Creative Projects:** From game prototypes to simulations, I’m always working on something interesting, like creating a flying car (I'm kidding... or am I?).
 
 ## Projects 🔧
 
