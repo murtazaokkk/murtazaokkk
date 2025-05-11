@@ -2,7 +2,7 @@
 
 ## About Me 🧑‍💻
 
-Hey there! I'm [Murtaza], your friendly neighborhood 17-year-old coding shithole and 3D modeling enthusiast. I've been creating magic with code since I was 12—yeah, I started early. I also dabble in 3D modeling, which i sometimes suck at
+Hey there! I'm Murtaza, your friendly neighborhood 17-year-old coding shithole and 3D modeling enthusiast. I've been creating magic with code since I was 12—yeah, I started early. I also dabble in 3D modeling, which i sometimes suck at
 
 Founder and CEO of **Racemfd**, a company that... well, let's just say it's as ambitious as I am. So, yeah, I run my own thing while also juggling school, projects, and attempting to keep my sleep schedule under control (spoiler: it's not working).
 
