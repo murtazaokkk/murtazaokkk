@@ -44,6 +44,7 @@ You might be wondering, "What is Racemfd?" Well, it's my company, and i fucking 
 - I’ve been coding longer than I’ve been able to legally drive a car. So you can imagine how much I’ve perfected the art of procrastination.
 - I once spent 12 hours straight modeling a chair in Blender. Did I need that chair? Absolutely not.
 - My dream job is probably something that doesn’t exist yet, but I'll get there.
+- I love racing, and ive done F1300 professionally with Delta Speeds
 
 ## Let's Connect! 🚀
 
